@@ -7,4 +7,7 @@ package my;
  */
 public class Main
 {
+    class Empty {
+
+    }
 }
